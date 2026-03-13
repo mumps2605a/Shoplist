@@ -1,0 +1,7 @@
+{
+  "name": "購物預算助手",
+  "description": "這是一款實用的購物助手應用程式，幫助您在賣場購物時手動記錄商品名稱與金額，並即時計算總額與預算剩餘空間。",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
